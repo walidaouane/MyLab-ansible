@@ -1,0 +1,35 @@
+# List
+
+- Carrots
+- Beans
+- Tomato
+
+# Array of List
+
+vegetable:
+  - Carrots
+  - Beans
+  - Tomato
+
+# Dictionary
+
+key: Valeu
+
+Tomato:
+  color: Red
+  origin: usa
+  variety: alicante
+  nutrition:
+    calories: 250
+    fat: 0.9g
+
+# List of dictionary
+
+- Tomato
+    color: Red
+    origin: usa
+- Carrots
+    color: orange
+    origin: uk
+
+    

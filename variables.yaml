@@ -1,0 +1,5 @@
+---
+destination_location: "/opt/apache-tomcat-9.0.52/webapps/"
+buildartifact_location: "/home/ansibleadmin/*.war"
+changedir_location: "/home/ansibleadmin"
+...
